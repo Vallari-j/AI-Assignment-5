@@ -1,0 +1,13 @@
+{
+  "Hyderabad": {
+    "hotel_per_day": 2000,
+    "food_per_day": 800,
+    "transport_per_day": 500
+  },
+
+  "Bangalore": {
+    "hotel_per_day": 2500,
+    "food_per_day": 900,
+    "transport_per_day": 600
+  }
+}
