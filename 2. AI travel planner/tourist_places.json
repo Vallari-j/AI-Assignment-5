@@ -1,0 +1,23 @@
+{
+  "Hyderabad": {
+    "Historical": [
+      "Charminar",
+      "Golconda Fort",
+      "Salar Jung Museum"
+    ],
+    "Nature": [
+      "Hussain Sagar",
+      "Nehru Zoological Park"
+    ]
+  },
+
+  "Bangalore": {
+    "Historical": [
+      "Bangalore Palace"
+    ],
+    "Nature": [
+      "Cubbon Park",
+      "Lalbagh Botanical Garden"
+    ]
+  }
+}
